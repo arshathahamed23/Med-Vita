@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "Med-Admin",
-=======
-  "name": "Med-Admin",
->>>>>>> 2692dc4a5d1c73e333d2bb32ca7ed2d6c5a46727
+  "name": "med-admin",
   "private": true,
   "version": "0.0.0",
   "type": "module",
