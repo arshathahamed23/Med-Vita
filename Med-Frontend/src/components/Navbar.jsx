@@ -15,7 +15,7 @@ const Navbar = () => {
   const [showMenu, setShowMenu] = useState(false);
 
   const handleAdminRedirect = () => {
-    window.location.href = "http://localhost:5174"; // Redirect to admin panel
+    window.location.href = "https://med-vita-admin.onrender.com"; // Redirect to admin panel
   };
 
   const logout = () => {
