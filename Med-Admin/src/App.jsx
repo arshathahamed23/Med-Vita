@@ -3,7 +3,7 @@ import Login from './pages/Login'
 import { ToastContainer, toast } from 'react-toastify';
 import { AdminContext } from './context/AdminContext';
 import Navbar from './components/Navbar';
-import Sidebar from './components/SIdebar';
+import Sidebar from './components/Sidebar';
 import Dashboard from './pages/Admin/Dashboard'
 import AllAppointments from './pages/Admin/AllAppointments'
 import AddDoctors from './pages/Admin/AddDoctors'
